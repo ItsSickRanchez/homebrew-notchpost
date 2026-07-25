@@ -8,7 +8,7 @@ cask "notchpost" do
   homepage "https://github.com/ItsSickRanchez/notchpost-dist"
 
   auto_updates true          # Sparkle updates the app in place; brew stays out of the way
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "NotchPost.app"
 
