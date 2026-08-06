@@ -1,6 +1,6 @@
 cask "notchpost" do
-  version "0.34.0"
-  sha256 "a752273963441bebc8b5db74531d124356a37bd62bd842d482238540564dd5c6"
+  version "0.35.0"
+  sha256 "1e65b76e37cd3fd9cd78815085a57775ea593356f711bd2dbcf47f88dece16ff"
 
   url "https://github.com/ItsSickRanchez/notchpost-dist/releases/download/v#{version}/NotchPost-#{version}.dmg"
   name "NotchPost"
